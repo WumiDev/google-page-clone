@@ -1,2 +1,2 @@
-# google-page-clone
+# google-page-clone: The project is hosted at ... 
 https://wumidev.github.io/google-page-clone/
