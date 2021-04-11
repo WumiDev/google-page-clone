@@ -21,7 +21,7 @@ form #googlesearch {
     margin-bottom: 1.5rem;
     width: 40vw;
     height: 2.5rem;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 footer {
@@ -45,6 +45,15 @@ ul.nav-links {
 .footer-nav .country {
     justify-content: flex-start;
     margin-left: 5px;
+}
+
+div.btns {
+    display: flex;
+    justify-content: center;
+}
+
+div.btns input {
+    margin-right: 10px;
 }
 
 ul li {
