@@ -1,0 +1,59 @@
+
+
+ul.nav-links {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.top-nav .nav-links {
+    justify-content: flex-end;
+}
+
+.footer-nav .nav-links {
+    justify-content: space-around;
+}
+
+.footer-nav .country {
+    justify-content: flex-start;
+    margin-left: 10px;
+}
+
+ul li {
+    margin: 0 2vw;
+    list-style: none;
+    font-size: 1.1rem;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #88949B;
+    padding: 0.5vw;
+}
+
+div a {
+    text-decoration: none;
+    color: navy;
+    padding: 0.5vw;
+}
+
+img.apps-icon {
+    width: 25px;
+    height: 25px;
+}
+
+span.avatar-icon {
+    width: 25px;
+    height: 25px;
+    background-color: blue;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 50%;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: space-around; */
+}
