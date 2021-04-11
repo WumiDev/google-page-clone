@@ -1,4 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
 
+header {
+    margin: 1rem 0;
+}
+
+main {
+    margin: 8rem 0;
+}
+
+form {
+    margin: 1.5rem 0;
+}
+
+form #googlesearch {
+    margin-bottom: 1.5rem;
+    width: 40vw;
+    height: 2.5rem;
+    border-radius: 20px;
+}
+
+footer {
+    margin-top: 10rem;
+}
 
 ul.nav-links {
     display: flex;
@@ -16,7 +44,7 @@ ul.nav-links {
 
 .footer-nav .country {
     justify-content: flex-start;
-    margin-left: 10px;
+    margin-left: 5px;
 }
 
 ul li {
